@@ -10,7 +10,7 @@ image:
   caption: "Image credit: [**John Moeses
     Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)"
   filename: 1-large.jpg
-  preview_only: false
+  preview_only: true
 ---
 
 Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
