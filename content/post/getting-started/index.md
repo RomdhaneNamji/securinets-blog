@@ -23,7 +23,7 @@ image:
     d/Core/Layout/images/timeline/2019-9.jpg)"
   focal_point: ""
   preview_only: false
-  filename: featured.jpg
+  filename: 1-large_x2.jpg
 ---
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 *widgets*, *themes*, and *language packs* included!**
 
