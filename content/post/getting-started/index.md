@@ -1,14 +1,14 @@
 ---
-title: "Academic: the website builder for Hugo"
+title: test change
 subtitle: "Create a beautifully simple website in under 10 minutes :rocket:"
-date: 2016-04-20T00:00:00Z
+date: 2016-04-20T00:00:00.000Z
 summary: Create a beautifully simple website in under 10 minutes.
 draft: false
 featured: false
 authors:
   - admin
   - 吳恩達
-lastmod: 2019-04-17T00:00:00Z
+lastmod: 2019-04-17T00:00:00.000Z
 tags:
   - Academic
   - 开源
